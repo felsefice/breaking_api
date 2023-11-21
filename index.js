@@ -1480,7 +1480,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/character", (req, res) => {
-  res.json(char_arr);
+  res.json(char_arr)
 });
 
 app.get("/quotes", (req, res) => {

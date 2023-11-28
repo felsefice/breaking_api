@@ -1315,129 +1315,129 @@ const quotes_arr = [
     author: "Walter White",
   },
   {
-    id: 92,
+    id: 93,
     quote: "Fear is the real enemy.",
     author: "Walter White",
   },
   {
-    id: 93,
+    id: 94,
     quote: "All bad things must come to an end.",
     author: "Walter White",
   },
   {
-    id: 94,
+    id: 95,
     quote:
       "Jesse, you asked me if I was in the meth business or the money business.. Neither. I'm in the empire business.",
     author: "Walter White",
   },
   {
-    id: 94,
+    id: 96,
     quote: "Sometimes the forbidden fruit tastes the sweetest.",
     author: "Hank Schrader",
   },
   {
-    id: 95,
+    id: 97,
     quote: "Free food always tastes good. Free drinks even better.",
     author: "Hank Schrader",
   },
   {
-    id: 96,
+    id: 98,
     quote: "My friends, I promise you that together, we will prosper.",
     author: "Gus Fring",
   },
   {
-    id: 97,
+    id: 99,
     quote:
       "Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.",
     author: "Hank Schrader",
   },
   {
-    id: 98,
+    id: 100,
     quote:
       "Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.",
     author: "Walter White",
   },
   {
-    id: 99,
+    id: 101,
     quote:
       "I told you, Skyler, I warned you for a solid year: you cross me, and there will be consequences.",
     author: "Walter White",
   },
   {
-    id: 100,
-    quote:
-      "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
-    author: "Skyler White",
-  },
-  {
-    id: 101,
-    quote:
-      "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
-    author: "Skyler White",
-  },
-  {
     id: 102,
+    quote:
+      "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
+    author: "Skyler White",
+  },
+  {
+    id: 103,
+    quote:
+      "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
+    author: "Skyler White",
+  },
+  {
+    id: 104,
     quote: "It’s easy money. Until we catch you.",
     author: "Hank Schrader",
   },
   {
-    id: 103,
+    id: 105,
     quote:
       "I once told a woman I was Kevin Costner and it worked because I believed it.",
     author: "Saul Goodman",
   },
   {
-    id: 104,
+    id: 106,
     quote: "Scientists love lasers.",
     author: "Saul Goodman",
   },
   {
-    id: 105,
+    id: 107,
     quote: "If you’re committed enough, you can make any story work.",
     author: "Saul Goodman",
   },
   {
-    id: 106,
+    id: 108,
     quote: "Did I say you could open your mouth? And, hands off the car!",
     author: "Hank Schrader",
   },
   {
-    id: 107,
+    id: 109,
     quote:
       "If you believe that there’s a hell, we’re pretty much already going there.",
     author: "Walter White",
   },
   {
-    id: 108,
+    id: 110,
     quote:
       "You add plus a douchebag to a minus douchebag and you get, Like, Zero Douchebags.",
     author: "Jesse Pinkman",
   },
   {
-    id: 109,
+    id: 111,
     quote: "A guy that clean has to be dirty.",
     author: "Hank Schrader",
   },
   {
-    id: 110,
+    id: 112,
     quote:
       "There is gold in the streets just waiting for someone to come and scoop it up.",
     author: "Walter White",
   },
   {
-    id: 111,
+    id: 113,
     quote:
       "The fun’s over. From here on out, I’m Mr. Low Profile. Just another douche bag with a job and three pairs of Dockers. If I’m lucky, month from now, best-case scenario, I’m managing a Cinnabon in Omaha.",
     author: "Saul Goodman",
   },
   {
-    id: 112,
+    id: 114,
     quote:
       "I am speaking to my family now. Skyler, you are the love of my life. I hope you know that.",
     author: "Walter White",
   },
   {
-    id: 113,
+    id: 115,
     quote: "I could have saved her",
     author: "Walter White",
   },
